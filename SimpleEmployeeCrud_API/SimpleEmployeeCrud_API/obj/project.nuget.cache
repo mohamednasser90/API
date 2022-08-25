@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DwDfKZuWdKduRI0HQPTzvK3LRXW4JJnMBovc56tRxn3XAvpW20CuYOJ17/pS9iHDUXeC71/lEvrF1v1DXQeo2w==",
+  "success": true,
+  "projectFilePath": "E:\\Practices\\DotNet\\API\\CRUD\\API CRUD Operations in .NET 6  ASP.NET Core Web API Using In-Memory Cache  API شرح\\SimpleEmployeeCrud_API\\SimpleEmployeeCrud_API\\SimpleEmployeeCrud_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Engab\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Engab\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Engab\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Engab\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Engab\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Engab\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
